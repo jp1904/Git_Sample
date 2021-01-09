@@ -12,6 +12,8 @@ namespace Git_Sample
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World 2");
+            
+            Console.Writeln("Additional text");
             Console.ReadLine();
         }
     }
