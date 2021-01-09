@@ -13,7 +13,8 @@ namespace Git_Sample
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World 2");
             Console.WriteLine("New Branch");
-            Console.ReadLine();
+            Console.WriteLine("Branch file");
+            Console.Read();
         }
     }
 }
